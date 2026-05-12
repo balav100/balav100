@@ -53,6 +53,12 @@ AI/ML Engineer | Data Scientist | NLP Engineer | GenAI Developer
 </p>
 
 ---
+# Technical Skills
+
+<p align="center">
+
+---
+
 
 # 🧠 Programming Languages
 
