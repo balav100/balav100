@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Balasubramaniam V</h1>
 
 <h3 align="center">
-AI/ML Engineer | Data Scientist | NLP Engineer | GenAI Developer
+
 </h3>
 
 <p align="center">
